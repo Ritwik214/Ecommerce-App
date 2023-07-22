@@ -118,5 +118,5 @@
 
 /* Applying the zoom effect when hovering over the card */
 .card:hover img {
-  transform: scale(1.1); 
+  transform: scale(2.1); 
 }
